@@ -1,0 +1,17 @@
+{
+  "name": "bg-cre-js",
+  "displayName": "bg-cre-js",
+  "expo": {
+    "name": "bg-cre-js",
+    "slug": "bg-cre-js",
+    "privacy": "unlisted",
+    "sdkVersion": "36.0.0",
+    "version": "1.0.0",
+    "entryPoint": "node_modules/expo/AppEntry.js",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ]
+  }
+}
